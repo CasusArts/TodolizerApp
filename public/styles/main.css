@@ -1,0 +1,19 @@
+/* Fonts declarations */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+
+
+.logo {
+  font-family: 'Baloo 2';
+  font-size: 2em;
+  color: deepskyblue;
+}
+
+.button.is-primary.signup {
+  background-color: deepskyblue;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
